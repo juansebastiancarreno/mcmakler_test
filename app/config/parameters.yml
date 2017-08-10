@@ -1,0 +1,16 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: 127.0.0.1
+    database_port: null
+    database_name: symfony
+    database_user: root
+    database_password: null
+    mailer_transport: smtp
+    mailer_host: 127.0.0.1
+    mailer_user: null
+    mailer_password: null
+    secret: 5cd3c76b8e917c01cb4de0ab68b7d313d29768ce
+    #Local Conection
+    mongodb_server: mongodb://localhost:27017
+    #Remote connection
+#    mongodb_server: "mongodb://juan:123456@ds129043.mlab.com:29043/nasa"
